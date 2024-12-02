@@ -42,6 +42,8 @@ The project leverages modern libraries for a robust implementation:
 - Dagger Hilt
 - Lifecycle Components (ViewModel and Runtime)
 - Key Dependencies in build.gradle.kts
+  
+![Screenshot_20241202_123501_EkaCareAssignment](https://github.com/user-attachments/assets/c7225eb6-5a49-44ab-bb5c-72f79c6aca4e)
 
 Usage
 - Launch the app.
