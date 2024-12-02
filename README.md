@@ -17,13 +17,12 @@ This project is a **single screen, single activity** input form built using **Je
 
 ## Project Structure
 
-│
-├── core              # Constants and utilities
-├── data              # Room database entities and DAOs
-├── domain            # Model classes
-├── presentation      # UI layer (Jetpack Compose)
-├── di                # Dependency Injection setup using Hilt
-└── viewmodel         # ViewModel layer
+- core              # Constants and utilities
+- data              # Room database entities and DAOs
+- domain            # Model classes
+- presentation      # UI layer (Jetpack Compose)
+- di                # Dependency Injection setup using Hilt
+- ViewModel         # ViewModel layer
 
 Prerequisites
 Android Studio Giraffe (or later)
